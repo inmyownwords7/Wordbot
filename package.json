@@ -1,0 +1,45 @@
+{
+  "name": "wordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "cd src && node app.js",
+    "start": "cd src && node app.js"
+  },
+  "repository": {
+    "url": "git@github.com:inmyownwords7/Wordbot-Alpha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@twurple/api": "^6.1.0",
+    "@twurple/auth": "^6.1.0",
+    "@twurple/chat": "^6.1.0",
+    "@twurple/eventsub-ws": "^6.1.0",
+    "@twurple/pubsub": "^6.1.0",
+    "app-root-path": "^3.1.0",
+    "chalk": "^5.2.0",
+    "console-colors": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "dotenv-vault-core": "^0.7.0",
+    "esm": "^3.2.25",
+    "express": "^4.18.2",
+    "fecha": "^4.2.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "morgan": "^1.10.0",
+    "nodejs": "^0.0.0",
+    "openai": "^3.2.1",
+    "package.json": "^2.0.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "url": "^0.11.0",
+    "webpack": "^5.77.0",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1",
+    "winston-mongodb": "^5.1.1",
+    "xregexp": "^5.1.1"
+  }
+}

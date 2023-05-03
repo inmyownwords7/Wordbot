@@ -1,0 +1,18 @@
+{
+    "channels": [
+        {
+            "channelName": "tfblade", 
+            "response" : "I am the greatest of. ",
+            "responseOne" : "${user} was for banned" 
+        },
+        {
+            "channelName": "iwdominate"
+        },
+        {
+            "channelName": "perkz_lol"
+        },
+        {
+            "channelName": "akanemsko"
+        }
+    ]
+}

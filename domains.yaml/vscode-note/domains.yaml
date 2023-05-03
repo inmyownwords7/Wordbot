@@ -1,0 +1,7 @@
+.categories:
+  default:
+    - 1b0989
+file.txt:
+  .categories:
+    default:
+      - 0a11bf
